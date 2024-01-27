@@ -1,11 +1,12 @@
 menu:
   Home:
   Archives: archives
+  Github: https://github.com/jackhai9
 
 widgets:
-- search
-- category
-- tag
+  - search
+  - category
+  - tag
 
 excerpt_link: Read More
 
